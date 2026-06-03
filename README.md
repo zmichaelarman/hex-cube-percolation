@@ -26,7 +26,7 @@ tests so far:
 
 Not ready to upload, to be officially implemented to ATEAMS:( https://github.com/apizzimenti/ATEAMS ) in near future.
 
-A Python implementation for generating boundary matrices for permutohedral/hexagonal complexes in arbitrary dimensions using simplicial decomposition.
+A Python implementation for generating boundary matrices for permutohedral/hexagonal complexes in arbitrary dimensions using Voronoi-Delauney triangulation.
 
 Work in Progress.
 
