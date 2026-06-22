@@ -1,8 +1,6 @@
 # Cubical Bernoulli cell percolation.
-# REQUIRES ATEAMS in addition to the packages below (see README section 2).
-# ATEAMS is not on PyPI: install it from its own repository and make sure
-# `python -c "import ateams"` works before running this workflow.
-# Tested with Python 3.9.6 on the exact versions below.
+# REQUIRES ATEAMS (see README).
+# Tested with Python 3.9.6
 numpy==2.0.2
 scipy==1.13.1
 matplotlib==3.9.4
