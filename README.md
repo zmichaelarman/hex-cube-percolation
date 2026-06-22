@@ -8,7 +8,7 @@ I opted against using qhull and HighVoronoi.jl because I don't know Julia and qh
 
 Cubical: ATEAMS PHAT | fixed-p snapshot
 
-Permutodedral: GUHDI lower-star | sweep
+Permutodedral: GUDHI lower-star | sweep
 
 ## Use
 
