@@ -29,6 +29,8 @@ python figures.py
 "square" only works in dimension 2,3,4 because I hardcoded the orthogonal directions of the torus
 
 
+## Citations
+
 ATEAMS:( https://github.com/apizzimenti/ATEAMS )
 
 Adams, A., Baek, J., & Davis, M. A. (2010). Fast high‐dimensional filtering using the permutohedral lattice. Computer Graphics Forum, 29(2), 753–762. https://doi.org/10.1111/j.1467-8659.2009.01645.x
