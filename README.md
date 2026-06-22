@@ -6,13 +6,13 @@ A Python implementation for generating boundary matrices for permutohedral/hexag
 
 ## Use
 
-###2D
+### 2D
 ```bash
 python run.py --dim 2 10 20 40     # site percolation on the hexagonal lattice (H1)
 python figures.py                  
 ```
 
-###4D
+### 4D
 ```bash
 python run.py 3 4 6 8 9            # dim 4 is the default
 python figures.py
@@ -25,7 +25,7 @@ python figures.py
 | `--trials N` | samples per scale | 5000 |
 | `--orientation O` | `rhombic` or `square` torus | `rhombic` |
 
-###Note
+### Note
 "square" only works in dimension 2,3,4 because I hardcoded the orthogonal directions of the torus
 
 
