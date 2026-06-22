@@ -25,7 +25,8 @@ python figures.py
 | `--trials N` | samples per scale | 5000 |
 | `--orientation O` | `rhombic` or `square` torus | `rhombic` |
 
-
+###Note
+"square" only works in dimension 2,3,4 because I hardcoded the orthogonal directions of the torus
 
 
 ATEAMS:( https://github.com/apizzimenti/ATEAMS )
