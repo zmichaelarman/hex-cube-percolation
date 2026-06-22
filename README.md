@@ -1,5 +1,7 @@
 # hex-cube-percolation
 
+Resulting figures I made in PDF file
+
 I opted against using qhull and HighVoronoi.jl because I don't know Julia and qhull is computational expensive and no periodic boundary support.
 
 A Python implementation for generating boundary matrices for permutohedral/hexagonal complexes in arbitrary dimensions using Voronoi-Delauney triangulation.
