@@ -9,18 +9,18 @@ A Python implementation for generating boundary matrices for permutohedral/hexag
 
 Work in Progress.
 
-Duncan, P., Kahle, M., & Schweinhart, B. (2020). Homological percolation on a torus: plaquettes and permutohedra. arXiv preprint arXiv:2011.11903.
+Adams, A., Baek, J., & Davis, M. A. (2010). Fast high‐dimensional filtering using the permutohedral lattice. Computer Graphics Forum, 29(2), 753–762. https://doi.org/10.1111/j.1467-8659.2009.01645.x
 
-Bobrowski, O., & Skraba, P. (2020). Homological Percolation: The Formation of Giant k-Cycles. arXiv preprint arXiv:2005.14011.
+Baek, J., & Adams, A. (2009). Some useful properties of the permutohedral lattice for Gaussian filtering [Technical Report]. Stanford University.
 
-Adams, A., Baek, J., & Davis, M. A. (2010). Fast High‐Dimensional Filtering Using the Permutohedral Lattice. Computer Graphics Forum, 29, 753–762. https://doi.org/10.1111/j.1467-8659.2009.01645.x
+Bobrowski, O., & Skraba, P. (2020). Homological percolation: The formation of giant k-cycles [Preprint]. arXiv. https://arxiv.org/abs/2005.14011
 
-Baek, J., & Adams, A. (2009). Some Useful Properties of the Permutohedral Lattice for Gaussian Filtering. Stanford University Technical Report.
+Duncan, P., Kahle, M., & Schweinhart, B. (2020). Homological percolation on a torus: Plaquettes and permutohedra [Preprint]. arXiv. https://arxiv.org/abs/2011.11903
 
-Panov, T., & Tril, V. (2025). Permutohedral complex and complements of diagonal subspace arrangements. arXiv. https://doi.org/10.48550/arxiv.2504.04183
+Kim, M. (2023). Algebraic characterization of the Voronoi cell structure of the A_n lattice [Preprint]. arXiv. https://doi.org/10.48550/arxiv.2304.10186
 
-Kim, M. (2023). Algebraic Characterization of the Voronoi Cell Structure of the A_n Lattice. arXiv. https://doi.org/10.48550/arxiv.2304.10186
+Maria, C., Boissonnat, J.-D., Glisse, M., & Yvinec, M. (2014). The GUDHI library: Simplicial complexes and persistent homology. In Mathematical Software – ICMS 2014 (LNCS 8592, pp. 167–174). Springer.
 
-Maria, C., Boissonnat, J.-D., Glisse, M., & Yvinec, M. (2014). The GUDHI Library: Simplicial Complexes and Persistent Homology. In Mathematical Software – ICMS 2014 (LNCS 8592). Springer.
+Panov, T., & Tril, V. (2025). Permutohedral complex and complements of diagonal subspace arrangements [Preprint]. arXiv. https://doi.org/10.48550/arxiv.2504.04183
 
 
