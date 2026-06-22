@@ -2,7 +2,7 @@
 
 Resulting figures I made in PDF file
 
-I opted against using qhull and HighVoronoi.jl because I don't know Julia and qhull is computational expensive and no periodic boundary support.
+I opted against using qhull and HighVoronoi.jl because I don't know Julia and wanted to keep it all python, and qhull is computational expensive and no periodic boundary support.
 
 
 
