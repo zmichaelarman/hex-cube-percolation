@@ -6,6 +6,9 @@ I opted against using qhull and HighVoronoi.jl because I don't know Julia and qh
 
 A Python implementation for generating boundary matrices for permutohedral/hexagonal complexes in arbitrary dimensions using Voronoi-Delauney triangulation.
 
+Cubical: ATEAMS PHAT | fixed-p snapshot
+Permutodedral: GUHDI lower-star | sweep
+
 ## Use
 
 ### 2D
