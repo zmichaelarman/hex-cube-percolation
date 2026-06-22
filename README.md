@@ -4,6 +4,29 @@ I opted against using qhull and HighVoronoi.jl because I don't know Julia and qh
 
 A Python implementation for generating boundary matrices for permutohedral/hexagonal complexes in arbitrary dimensions using Voronoi-Delauney triangulation.
 
+## Use
+
+###2D
+```bash
+python run.py --dim 2 10 20 40     # site percolation on the hexagonal lattice (H1)
+python figures.py                  
+```
+
+###4D
+```bash
+python run.py 3 4 6 8 9            # dim 4 is the default
+python figures.py
+```
+
+| flag | meaning | default |
+|---|---|---|
+| `--dim D` | lattice dimension | 4 |
+| `--homology H` | which giant cycles | middle, `D//2` |
+| `--trials N` | samples per scale | 5000 |
+| `--orientation O` | `rhombic` or `square` torus | `rhombic` |
+
+
+
 
 ATEAMS:( https://github.com/apizzimenti/ATEAMS )
 
